@@ -1,0 +1,1692 @@
+ html:
+     |
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+
+        <meta name="generator" content="Mura CMS 5.4" />
+
+        <title>The League - British Wheelchair Basketball</title>
+
+        <link rel="icon" href="/gbwba/images/favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="/gbwba/images/favicon.ico" type="image/x-icon" />
+
+        <link rel="stylesheet" href="/gbwba/css/default.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="/gbwba/includes/themes/wbatheme/css/typography.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="/gbwba/includes/themes/wbatheme/css/site.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="/gbwba/css/print.css" type="text/css" media="print" />
+
+        <!--[if lte IE 7]>
+            <link rel="stylesheet" href="/gbwba/includes/themes/wbatheme/css/ie.css" type="text/css" media="all" />
+            <script src="/gbwba/includes/themes/wbatheme/js/DD_roundies.js"></script>
+            <script>
+              DD_roundies.addRule('.submit, .buttons input, dd.textField .submit', '10px');
+              /* string argument can be any CSS selector */
+            </script>
+        <![endif]-->
+        <!--[if lte IE 6]>
+            <script src="/gbwba/js/DD_belatedPNG.js"></script>
+            <script>
+              /* EXAMPLE */
+              DD_belatedPNG.fix('dd.rating');
+              DD_belatedPNG.fix('.trans');
+               DD_belatedPNG.fix('.controls a');
+              /* string argument can be any CSS selector */
+            </script>
+        <![endif]-->
+
+        <link rel="alternate" type="application/rss+xml" title="British Wheelchair Basketball - Forthcoming Events" href="http://www.gbwba.org.uk/tasks/feed/?feedID=00CFFA49-BDBE-8835-24A9D4C0B550A49B" />
+
+        <link rel="alternate" type="application/rss+xml" title="British Wheelchair Basketball - Latest News" href="http://www.gbwba.org.uk/tasks/feed/?feedID=00B6947B-A034-CED8-D285C8B8F75DDE29" />
+
+    <script src="/gbwba/js/jquery/jquery.js" type="text/javascript"></script>
+
+
+    <script type="text/javascript">
+        var dtExample="10/11/2018";
+        var dtCh="/";
+        var dtFormat =[1,0,2];
+        var dtLocale="en-GB";
+        </script>
+    <script type="text/javascript" src="/gbwba/js/global.js"></script>
+    <script type="text/javascript">
+    var loginURL="index.cfm?display=login";
+    var siteid="gbwba";
+    var siteID="gbwba";
+    var context="";
+    var jslib="jquery";
+    var assetpath="/gbwba";
+    var themepath="/gbwba/includes/themes/wbatheme";
+    </script>
+
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-20219187-9']);
+    _gaq.push(['_setDomainName', '.www.gbwba.org.uk']);_gaq.push(['_setAllowHash', false]);_gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script> </head>
+
+    <body id="theleague" class="twoColSL  blu">
+    <div id="container" class="sysTheLeague">
+    <div id="wrapper">
+
+        <div id="header" class=" clearfix trans">
+            <h1><a href="/" class="trans">British Wheelchair Basketball</a></h1>
+            <ul class="navUtility">
+                <li><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/">About Us</a></li>
+                <li class="last"><a href="/gbwba/index.cfm/contact/">Contact</a></li>
+            </ul>
+            <form action="/gbwba/index.cfm/search-results/" method="get" class="trans" id="searchForm">
+                <fieldset>
+
+                    <input type="text" value="Search" onclick="this.value='';" onblur="if(this.value==''){this.value='Search';}" class="text" name="keywords"/>
+
+                    <input type="hidden" name="display" value="search"/>
+                    <input type="hidden" name="newSearch" value="true"/>
+                    <input type="hidden" name="noCache" value="1"/>
+                    <input name="Search" type="image" class="submit" style="width:31px;height:21px;" src="/gbwba/includes/themes/wbatheme/images/button_search.gif" />
+
+                </fieldset>
+            </form>
+
+        </div>
+
+                <ul id="navPrimary">
+                    <li class="first" id="navHome"><a href="/gbwba/">Home</a></li>
+
+                    <li id="navAbout"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/">About</a>
+                <ul>
+                    <li class="first" id="navExecutiveCommittee"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/executive-committee-of-great-britain-wheelchair-basketball-association/">Executive Committee</a></li>
+
+                    <li id="navStaffProfiles"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/staff-profiles/">Staff Profiles</a></li>
+
+                    <li id="navOfficers"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/officers/">Officers</a></li>
+
+                    <li id="navPartnershipOpportunities"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/partnership-opportunities/">Partnership Opportunities</a></li>
+
+                    <li id="navPartners"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/partners/">Partners</a></li>
+
+                    <li id="navGovernance"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/governance/">Governance</a></li>
+
+                    <li id="navVacancies"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/vacancies/">Vacancies</a></li>
+
+                    <li id="navSafeguarding"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/safeguarding/">Safeguarding</a></li>
+
+                    <li id="navEqualityPolicy"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/equality-policy/">Equality Policy</a></li>
+
+                    <li class="last" id="navObituaries"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/obituaries/">Obituaries</a></li>
+
+                </ul></li>
+
+                    <li id="navWheelchairBasketball"><a href="/gbwba/index.cfm/wheelchair-basketball/">Wheelchair Basketball</a>
+                <ul>
+                    <li class="first" id="navFindAClub"><a href="/gbwba/index.cfm/wheelchair-basketball/find-a-club/">Find a Club</a></li>
+
+                    <li id="navClubDevelopment"><a href="/gbwba/index.cfm/wheelchair-basketball/club-development/">Club Development</a></li>
+
+                    <li id="navOfficials"><a href="/gbwba/index.cfm/wheelchair-basketball/officials/">Officials</a></li>
+
+                    <li id="navCoachingProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/coaching-programme/">Coaching Programme</a></li>
+
+                    <li id="navWomensProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/womens-programme/">Women's Programme</a></li>
+
+                    <li id="navJuniorProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/juniors-programme/">Junior Programme</a></li>
+
+                    <li id="navLondonDevelopmentProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/london-development-programme/">London Development Programme</a></li>
+
+                    <li id="navYoungOfficialsProject"><a href="/gbwba/index.cfm/wheelchair-basketball/young-officials-project/">Young Officials Project</a></li>
+
+                    <li id="navSchoolsProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/schools-programme/">Schools Programme</a></li>
+
+                    <li id="navSainsburysSchoolGames"><a href="/gbwba/index.cfm/wheelchair-basketball/sainsburys-school-games/">Sainsbury's School Games</a></li>
+
+                    <li id="navInclusiveZoneBasketball"><a href="/gbwba/index.cfm/wheelchair-basketball/inclusive-zone-basketball/">Inclusive Zone Basketball</a></li>
+
+                    <li id="navBasicSkills"><a href="/gbwba/index.cfm/wheelchair-basketball/basic-skills/">Basic Skills</a></li>
+
+                    <li id="navClassification"><a href="/gbwba/index.cfm/wheelchair-basketball/classification/">Classification</a></li>
+
+                    <li id="navRules"><a href="javascript:newWin=window.open('/gbwba/index.cfm/linkservid/BE794A4E-9DCE-A6E0-3AAEB2BBF636165B/showMeta/0/','NewWin0758548268831');newWin.focus();void(0);">Rules</a></li>
+
+                    <li id="navWorldHistory"><a href="/gbwba/index.cfm/wheelchair-basketball/worldhistory/">World History</a></li>
+
+                    <li class="last" id="navOnlineLearningCentre"><a href="/gbwba/index.cfm/wheelchair-basketball/online-learning-centre/">Online Learning Centre</a></li>
+
+                </ul></li>
+
+                    <li id="navNews"><a href="/gbwba/index.cfm/news/">News</a></li>
+
+                    <li id="navStandardLifeGbTeams"><a href="/gbwba/index.cfm/standard-life-gb-teams/">Standard Life GB Teams</a>
+                <ul>
+                    <li class="first" id="navGbPlayers"><a href="/gbwba/index.cfm/standard-life-gb-teams/gb-players/">GB Players</a></li>
+
+                    <li id="navEvents"><a href="/gbwba/index.cfm/standard-life-gb-teams/events1/">Events</a></li>
+
+                    <li class="last" id="navMatchResults"><a href="/gbwba/index.cfm/standard-life-gb-teams/match-results/">Match Results</a></li>
+
+                </ul></li>
+
+                    <li class="current" id="navTheLeague"><a href="/gbwba/index.cfm/the-league/" class="current">The League</a>
+                <ul>
+                    <li class="first" id="navLeagueSecretary"><a href="/gbwba/index.cfm/the-league/league-secretary/">League Secretary</a></li>
+
+                    <li id="navSubmitResults"><a href="/gbwba/index.cfm/the-league/submit-results/">Submit Results</a></li>
+
+                    <li id="navLeagueRules"><a href="javascript:newWin=window.open('/gbwba/index.cfm/linkservid/070EE000-CEFA-C9D4-FD8E0AECE64DE4A0/showMeta/0/','NewWin0508224573939');newWin.focus();void(0);">League Rules</a></li>
+
+                    <li id="navMembershipForms20132014"><a href="/gbwba/index.cfm/the-league/membership-forms-20132014/">Membership Forms 2013/2014</a></li>
+
+                    <li class="last" id="navStatistics"><a href="/gbwba/index.cfm/the-league/statistics/">Statistics</a></li>
+
+                </ul></li>
+
+                    <li id="navCalendar"><a href="/gbwba/index.cfm/calendar/">Calendar</a></li>
+
+                    <li id="navMedia"><a href="/gbwba/index.cfm/media/">Media</a>
+                <ul>
+                    <li class="first" id="navBwbTv"><a href="/gbwba/index.cfm/linkservid/4BB92071-155D-2B90-03C41AC60BF499FD/showMeta/0/">BWB TV</a></li>
+
+                    <li class="last" id="navGalleries"><a href="/gbwba/index.cfm/media/galleries/">Galleries</a></li>
+
+                </ul></li>
+
+                    <li id="navBwbTv"><a href="/gbwba/index.cfm/british-wheelchair-basketball-tv/">BWB TV</a>
+                <ul>
+                    <li class="first" id="navDeloitteParasportStarsWillRamsey"><a href="/gbwba/index.cfm/british-wheelchair-basketball-tv/deloitte-parasport-stars-will-ramsey/">Deloitte Parasport Stars: Will Ramsey</a></li>
+
+                    <li id="navDeloitteParasportStarsDerbyWheelblazers"><a href="/gbwba/index.cfm/british-wheelchair-basketball-tv/deloitte-parasport-stars-derby-wheelblazers/">Deloitte Parasport Stars: Derby Wheelblazers</a></li>
+
+                    <li id="navC4lSchoolClubs"><a href="/gbwba/index.cfm/british-wheelchair-basketball-tv/change-4-life-school-clubs-wheelchair-basketball/">C4L School Clubs</a></li>
+
+                    <li id="navLimblessYouStillHaveSport"><a href="/gbwba/index.cfm/british-wheelchair-basketball-tv/lost-lower-limbs-try-wheelchair-basketball/">Limbless? You Still Have Sport!</a></li>
+
+                    <li class="last" id="navMinimalDisability"><a href="/gbwba/index.cfm/british-wheelchair-basketball-tv/minimal-disability/">Minimal Disability</a></li>
+
+                </ul></li>
+
+                    <li id="navContact"><a href="/gbwba/index.cfm/contact/">Contact</a>
+                <ul>
+                    <li class="first" id="navContactForm"><a href="/gbwba/index.cfm/contact/contact-form/">Contact form</a></li>
+
+                </ul></li>
+
+                    <li class="last" id="navGoogle"><a href="/gbwba/index.cfm/linkservid/C80F3310-AC61-7D17-403038333A03CE9A/showMeta/0/">Google+</a></li>
+
+                </ul>
+        <div id="content" class="clearfix">
+
+        <div class="innerpad20t0 ">
+            <div id="left" class="sidebar">
+                <div id="navStandard">
+                <ul  class="navSecondary">
+                <li class="first"><a href="/gbwba/index.cfm/the-league/league-secretary/">League Secretary</a></li>
+                <li><a href="/gbwba/index.cfm/the-league/submit-results/">Submit Results</a></li>
+                <li><a href="javascript:newWin=window.open('/gbwba/index.cfm/linkservid/070EE000-CEFA-C9D4-FD8E0AECE64DE4A0/showMeta/0/','NewWin0757026956189');newWin.focus();void(0);">League Rules</a></li>
+                <li><a href="/gbwba/index.cfm/the-league/membership-forms-20132014/">Membership Forms 2013/2014</a></li>
+                <li class="last"><a href="/gbwba/index.cfm/the-league/statistics/">Statistics</a></li>
+                </ul> </div><h4>Current</h4>
+    <p><div class="leagueManager_leagueSelector">
+                    <script type="text/javascript">
+                         $(document).ready(
+                             function()
+                             {
+                                 $('#leagueSelect').change(
+                                     function()
+                                     {
+                                         $('#leagueForm').submit();
+                                     })
+                             });
+                    </script>
+
+                    <ul class="navSecondary">
+
+                                <li class='first'><a href="./?v=ll&LeagueId=102">Super League 2013/2014</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=103">Division One 2013/2014</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=104">Division Two 2013/2014</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=105">Divison Three 2013/2014</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=106">Women's League 2013/2014</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=107">The Lord's Taverners U15 Junior League 2013/14</a></li>
+
+                                <li class='last'><a href="./?v=ll&LeagueId=108">The Lord's Taverners U19 Junior League 2013/14</a></li>
+
+                    </ul>
+                 </div></p>
+    <h4>Past</h4>
+    <p><div class="leagueManager_leagueSelector">
+                    <script type="text/javascript">
+                         $(document).ready(
+                             function()
+                             {
+                                 $('#leagueSelect').change(
+                                     function()
+                                     {
+                                         $('#leagueForm').submit();
+                                     })
+                             });
+                    </script>
+
+                    <ul class="navSecondary">
+
+                                <li class='first'><a href="./?v=ll&LeagueId=85">RGK Super League 2011/12</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=82">Division One 2011/12</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=83">Division Two 2011/12</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=84">Division Three 2011/12</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=90">BOOST Women's League 2011/2012</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=89">The Lord's Taverners 8ft Hoop Junior League 2011/2012</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=88">The Lord's Taverners 10ft Hoop Junior League 2011/12</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=74">RGK Super League 2010/11</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=75">Division One 2010/2011</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=76">Division Two 2010/2011</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=77">Division Three 2010/2011</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=79">Development Division 2010/2011</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=80">FSB Women's League 2010/11</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=60">RGK Super League 2009/10</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=61">National League First Division 2009/10</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=62">National League Second Division 2009/10</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=63">National League Third Division 2009/10</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=64">National League Development Division 2009/10</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=65">BOOST Women's League 2009/10</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=78">The Lord's Taverners Junior League 2010/2011</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=66">The Lord's Taverners Junior League 2009/10</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=91">Development Division 2011/2012</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=93">RGK Super League 2012/2013</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=94">Division One 2012/2013</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=95">Division Two 2012/2013</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=96">Division Three 2012/2013</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=98">The Lord's Taverners 8ft Hoop Junior League 2012/2013</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=99">The Lord's Taverners 10ft Hoop Junior League 2012/2013</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=100">BOOST Women's League 20012/13</a></li>
+
+                                <li class='last'><a href="./?v=ll&LeagueId=101">Development Division 2012/2013</a></li>
+
+                    </ul>
+                 </div></p>
+            </div>
+            <div id="primary" class="content">
+                <ul id="crumbList">
+
+                            <li class="first">
+                            <a href="/gbwba/">Home</a></li>
+
+                            <li class="last">
+                                &nbsp;&raquo;&nbsp;<a href="/gbwba/index.cfm/the-league/">The League</a>
+                            </li>
+
+                </ul>
+                            <h2 class="pageTitle">The League</h2>
+                        <h3>Division One 2013/2014</h3>
+                    <ul class='leagueManager_tabNav'>
+                        <li><span>
+
+                                <a class='off' href="./?v=ll&LeagueId=103">Tables</a>
+
+                        </span></li>
+
+                        <li><span>
+
+                                <a class='on' href="./?v=lr&LeagueId=103">Results</a>
+
+                        </span></li>
+
+                        <li><span>
+
+                                <a class='off' href="./?v=lf&LeagueId=103">Fixtures</a>
+
+                        </span></li>
+                    </ul>
+
+                        <table class="leagueManager_divisionTable">
+                            <tr>
+                                <th colspan='5'>Division One Central 2013-2014 Results</th>
+                            </tr>
+                            <tr>
+                                <th>Date</th>
+                                <th>Home Team</th>
+                                <th>Score</th>
+                                <th>Away Team </th>
+                                <th>Report</th>
+                            </tr>
+
+                                <tr class="odd">
+                                    <td>22-September-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77240">Celts 1</a>
+                                    </td>
+                                    <td>30 - 61</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80234">GLL & Aspire London Titans 2</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16737&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>28-September-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80234">GLL & Aspire London Titans 2</a>
+                                    </td>
+                                    <td>64 - 42</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=84461">Coyotes</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16712&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>28-September-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77178">Jaguars 1</a>
+                                    </td>
+                                    <td>43 - 50</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77166">Birmingham Black Cats 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16726&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>05-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77135">RGK UofW Sporting Club Rhinos 1</a>
+                                    </td>
+                                    <td>69 - 50</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77160">Sheffield Steelers 2</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16744&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>12-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77240">Celts 1</a>
+                                    </td>
+                                    <td>47 - 52</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=84461">Coyotes</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16715&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>13-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77160">Sheffield Steelers 2</a>
+                                    </td>
+                                    <td>46 - 55</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77191">Leicester Cobras 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16723&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>20-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77191">Leicester Cobras 1</a>
+                                    </td>
+                                    <td>56 - 33</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77178">Jaguars 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16692&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>20-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77166">Birmingham Black Cats 1</a>
+                                    </td>
+                                    <td>31 - 60</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80234">GLL & Aspire London Titans 2</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16699&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>20-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77240">Celts 1</a>
+                                    </td>
+                                    <td>27 - 85</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77160">Sheffield Steelers 2</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16713&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>27-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=84461">Coyotes</a>
+                                    </td>
+                                    <td>51 - 50</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77166">Birmingham Black Cats 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16731&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>02-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77135">RGK UofW Sporting Club Rhinos 1</a>
+                                    </td>
+                                    <td>75 - 34</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77166">Birmingham Black Cats 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16730&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>02-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77178">Jaguars 1</a>
+                                    </td>
+                                    <td>59 - 39</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77240">Celts 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16705&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>02-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=84461">Coyotes</a>
+                                    </td>
+                                    <td>55 - 67</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77160">Sheffield Steelers 2</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16745&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>03-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77191">Leicester Cobras 1</a>
+                                    </td>
+                                    <td>79 - 27</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77240">Celts 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16694&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>09-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77160">Sheffield Steelers 2</a>
+                                    </td>
+                                    <td>48 - 50</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80234">GLL & Aspire London Titans 2</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16738&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>24-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77240">Celts 1</a>
+                                    </td>
+                                    <td>37 - 83</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77135">RGK UofW Sporting Club Rhinos 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16714&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>24-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80234">GLL & Aspire London Titans 2</a>
+                                    </td>
+                                    <td>58 - 50</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77191">Leicester Cobras 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16721&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>30-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=84461">Coyotes</a>
+                                    </td>
+                                    <td>32 - 57</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77135">RGK UofW Sporting Club Rhinos 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16746&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>30-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77160">Sheffield Steelers 2</a>
+                                    </td>
+                                    <td>60 - 37</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77178">Jaguars 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16734&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>01-December-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77166">Birmingham Black Cats 1</a>
+                                    </td>
+                                    <td>58 - 38</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77240">Celts 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16700&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>01-December-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77135">RGK UofW Sporting Club Rhinos 1</a>
+                                    </td>
+                                    <td>44 - 57</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77191">Leicester Cobras 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16724&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>07-December-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77178">Jaguars 1</a>
+                                    </td>
+                                    <td>38 - 54</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80234">GLL & Aspire London Titans 2</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16704&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>07-December-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77160">Sheffield Steelers 2</a>
+                                    </td>
+                                    <td>44 - 69</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77135">RGK UofW Sporting Club Rhinos 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16716&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>14-December-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77178">Jaguars 1</a>
+                                    </td>
+                                    <td>49 - 50</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=84461">Coyotes</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16708&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>15-December-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80234">GLL & Aspire London Titans 2</a>
+                                    </td>
+                                    <td>20 - 0</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77166">Birmingham Black Cats 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16727&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>15-December-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77135">RGK UofW Sporting Club Rhinos 1</a>
+                                    </td>
+                                    <td>72 - 30</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77240">Celts 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16742&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>29-December-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=84461">Coyotes</a>
+                                    </td>
+                                    <td>33 - 67</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77191">Leicester Cobras 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16725&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>05-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77160">Sheffield Steelers 2</a>
+                                    </td>
+                                    <td>66 - 37</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77240">Celts 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16741&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>11-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77160">Sheffield Steelers 2</a>
+                                    </td>
+                                    <td>63 - 42</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=84461">Coyotes</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16717&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>12-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77135">RGK UofW Sporting Club Rhinos 1</a>
+                                    </td>
+                                    <td>81 - 52</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77178">Jaguars 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16735&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>12-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77191">Leicester Cobras 1</a>
+                                    </td>
+                                    <td>52 - 39</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77166">Birmingham Black Cats 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16691&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>18-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77135">RGK UofW Sporting Club Rhinos 1</a>
+                                    </td>
+                                    <td>69 - 44</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80234">GLL & Aspire London Titans 2</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16739&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>26-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77166">Birmingham Black Cats 1</a>
+                                    </td>
+                                    <td>34 - 79</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77191">Leicester Cobras 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16719&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>26-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77240">Celts 1</a>
+                                    </td>
+                                    <td>48 - 62</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77178">Jaguars 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16733&DivisionId=348&LeagueId=103">Details</a></td>
+                                </tr>
+
+                        </table>
+
+                        <table class="leagueManager_divisionTable">
+                            <tr>
+                                <th colspan='5'>Division One North 2013-2014 Results</th>
+                            </tr>
+                            <tr>
+                                <th>Date</th>
+                                <th>Home Team</th>
+                                <th>Score</th>
+                                <th>Away Team </th>
+                                <th>Report</th>
+                            </tr>
+
+                                <tr class="odd">
+                                    <td>28-September-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77181">Percy Hedley Eagles 1</a>
+                                    </td>
+                                    <td>44 - 75</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77139">Tameside Owls 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16794&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>29-September-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77268">Manchester Mavericks 1</a>
+                                    </td>
+                                    <td>36 - 66</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77139">Tameside Owls 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16795&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>29-September-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77181">Percy Hedley Eagles 1</a>
+                                    </td>
+                                    <td>54 - 59</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80438">Carlisle Panthers 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16790&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>12-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77137">Sheffield Steelers 1</a>
+                                    </td>
+                                    <td>76 - 41</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77181">Percy Hedley Eagles 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16769&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>12-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77139">Tameside Owls 1</a>
+                                    </td>
+                                    <td>72 - 38</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77256">Knights 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16777&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>13-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77139">Tameside Owls 1</a>
+                                    </td>
+                                    <td>66 - 45</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80438">Carlisle Panthers 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16788&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>13-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77276">Leeds Spiders</a>
+                                    </td>
+                                    <td>60 - 53</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77181">Percy Hedley Eagles 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16801&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>19-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80438">Carlisle Panthers 1</a>
+                                    </td>
+                                    <td>44 - 59</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77277">Vikings 2009</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16782&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>20-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77276">Leeds Spiders</a>
+                                    </td>
+                                    <td>31 - 101</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77139">Tameside Owls 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16796&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>26-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77256">Knights 1</a>
+                                    </td>
+                                    <td>74 - 43</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77276">Leeds Spiders</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16753&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>02-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80438">Carlisle Panthers 1</a>
+                                    </td>
+                                    <td>62 - 53</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77268">Manchester Mavericks 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16763&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>03-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77139">Tameside Owls 1</a>
+                                    </td>
+                                    <td>62 - 44</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77137">Sheffield Steelers 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16765&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>10-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77268">Manchester Mavericks 1</a>
+                                    </td>
+                                    <td>61 - 58</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77181">Percy Hedley Eagles 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16800&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>23-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80438">Carlisle Panthers 1</a>
+                                    </td>
+                                    <td>35 - 88</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77139">Tameside Owls 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16760&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>23-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77137">Sheffield Steelers 1</a>
+                                    </td>
+                                    <td>78 - 34</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77276">Leeds Spiders</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16771&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>24-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77268">Manchester Mavericks 1</a>
+                                    </td>
+                                    <td>49 - 41</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77277">Vikings 2009</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16786&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>30-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77256">Knights 1</a>
+                                    </td>
+                                    <td>79 - 56</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77268">Manchester Mavericks 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16752&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>01-December-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77276">Leeds Spiders</a>
+                                    </td>
+                                    <td>40 - 51</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80438">Carlisle Panthers 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16792&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>01-December-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77277">Vikings 2009</a>
+                                    </td>
+                                    <td>47 - 46</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77181">Percy Hedley Eagles 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16757&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>07-December-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80438">Carlisle Panthers 1</a>
+                                    </td>
+                                    <td>45 - 49</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77276">Leeds Spiders</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16764&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>14-December-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80438">Carlisle Panthers 1</a>
+                                    </td>
+                                    <td>43 - 74</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77256">Knights 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16776&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>15-December-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77277">Vikings 2009</a>
+                                    </td>
+                                    <td>33 - 53</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77137">Sheffield Steelers 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16756&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>15-December-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77181">Percy Hedley Eagles 1</a>
+                                    </td>
+                                    <td>52 - 78</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77256">Knights 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16779&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>04-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77139">Tameside Owls 1</a>
+                                    </td>
+                                    <td>93 - 36</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77277">Vikings 2009</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16783&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>04-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77256">Knights 1</a>
+                                    </td>
+                                    <td>80 - 34</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77181">Percy Hedley Eagles 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16751&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>05-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77137">Sheffield Steelers 1</a>
+                                    </td>
+                                    <td>63 - 43</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77268">Manchester Mavericks 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16770&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>11-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77256">Knights 1</a>
+                                    </td>
+                                    <td>68 - 35</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77277">Vikings 2009</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16747&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>12-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77276">Leeds Spiders</a>
+                                    </td>
+                                    <td>50 - 53</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77137">Sheffield Steelers 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16799&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>12-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77139">Tameside Owls 1</a>
+                                    </td>
+                                    <td>89 - 16</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77268">Manchester Mavericks 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16767&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>12-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77256">Knights 1</a>
+                                    </td>
+                                    <td>72 - 31</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80438">Carlisle Panthers 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16748&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>25-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77181">Percy Hedley Eagles 1</a>
+                                    </td>
+                                    <td>35 - 76</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77137">Sheffield Steelers 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16797&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>26-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77277">Vikings 2009</a>
+                                    </td>
+                                    <td>40 - 73</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77139">Tameside Owls 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16755&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>26-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77181">Percy Hedley Eagles 1</a>
+                                    </td>
+                                    <td>52 - 45</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77268">Manchester Mavericks 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16772&DivisionId=349&LeagueId=103">Details</a></td>
+                                </tr>
+
+                        </table>
+
+                        <table class="leagueManager_divisionTable">
+                            <tr>
+                                <th colspan='5'>Division One South 2013-2014 Results</th>
+                            </tr>
+                            <tr>
+                                <th>Date</th>
+                                <th>Home Team</th>
+                                <th>Score</th>
+                                <th>Away Team </th>
+                                <th>Report</th>
+                            </tr>
+
+                                <tr class="odd">
+                                    <td>15-September-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77142">Aces 1</a>
+                                    </td>
+                                    <td>40 - 51</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80233">GLL & Aspire London Titans 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16812&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>22-September-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77280">CWBA 1</a>
+                                    </td>
+                                    <td>37 - 57</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77170">Essex Outlaws 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16803&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>28-September-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77142">Aces 1</a>
+                                    </td>
+                                    <td>52 - 46</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77287">BlackHawks</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16813&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>29-September-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77280">CWBA 1</a>
+                                    </td>
+                                    <td>63 - 58</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77228">Tornados 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16833&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>29-September-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77273">Exeter Otters</a>
+                                    </td>
+                                    <td>32 - 50</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80233">GLL & Aspire London Titans 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16831&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>13-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77228">Tornados 1</a>
+                                    </td>
+                                    <td>57 - 53</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77142">Aces 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16841&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>13-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77287">BlackHawks</a>
+                                    </td>
+                                    <td>53 - 64</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77280">CWBA 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16821&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>13-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77170">Essex Outlaws 1</a>
+                                    </td>
+                                    <td>70 - 42</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80233">GLL & Aspire London Titans 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16809&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>19-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80233">GLL & Aspire London Titans 1</a>
+                                    </td>
+                                    <td>66 - 34</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77273">Exeter Otters</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16816&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>20-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77228">Tornados 1</a>
+                                    </td>
+                                    <td>52 - 47</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77287">BlackHawks</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16843&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>20-October-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77170">Essex Outlaws 1</a>
+                                    </td>
+                                    <td>76 - 25</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77273">Exeter Otters</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16811&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>03-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77280">CWBA 1</a>
+                                    </td>
+                                    <td>46 - 49</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77142">Aces 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16804&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>03-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77273">Exeter Otters</a>
+                                    </td>
+                                    <td>34 - 77</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77228">Tornados 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16838&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>03-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77287">BlackHawks</a>
+                                    </td>
+                                    <td>43 - 85</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77170">Essex Outlaws 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=17412&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>23-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80233">GLL & Aspire London Titans 1</a>
+                                    </td>
+                                    <td>52 - 71</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77228">Tornados 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=17411&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>23-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77170">Essex Outlaws 1</a>
+                                    </td>
+                                    <td>66 - 48</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77142">Aces 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16808&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>24-November-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77273">Exeter Otters</a>
+                                    </td>
+                                    <td>45 - 51</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77287">BlackHawks</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16832&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>01-December-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80233">GLL & Aspire London Titans 1</a>
+                                    </td>
+                                    <td>53 - 35</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77280">CWBA 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16820&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>01-December-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77170">Essex Outlaws 1</a>
+                                    </td>
+                                    <td>64 - 46</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77228">Tornados 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16834&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>15-December-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77287">BlackHawks</a>
+                                    </td>
+                                    <td>46 - 71</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80233">GLL & Aspire London Titans 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16830&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>15-December-2013</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77142">Aces 1</a>
+                                    </td>
+                                    <td>77 - 30</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77273">Exeter Otters</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16814&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>05-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77287">BlackHawks</a>
+                                    </td>
+                                    <td>40 - 59</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77142">Aces 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16828&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>12-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77280">CWBA 1</a>
+                                    </td>
+                                    <td>48 - 36</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77273">Exeter Otters</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16807&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>12-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=80233">GLL & Aspire London Titans 1</a>
+                                    </td>
+                                    <td>61 - 34</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77287">BlackHawks</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16815&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="odd">
+                                    <td>12-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77142">Aces 1</a>
+                                    </td>
+                                    <td>60 - 74</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77170">Essex Outlaws 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16823&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                                <tr class="even">
+                                    <td>26-January-2014</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77273">Exeter Otters</a>
+                                    </td>
+                                    <td>49 - 26</td>
+                                    <td>
+                                        <a href="./?v=t&TeamId=77280">CWBA 1</a>
+                                    </td>
+                                    <td><a href="./?v=mi&MatchId=16822&DivisionId=350&LeagueId=103">Details</a></td>
+                                </tr>
+
+                        </table>
+            </div>
+    <!--innerpad20t0 --></div>
+    <div class="clearmore40"></div>
+        </div>
+
+
+    <div id="footer" class="trans">
+    <div class="wrap clearfix">
+
+     <div class="clearmore20"></div>
+    <div class="footercol">
+
+    <div class="container">
+
+    <h3><a href="/" class="trans">British Wheelchair Basketball</a></h3>
+    <p style="margin-top:0px;margin-right:30px;font-size:11px;">British Wheelchair Basketball &copy;2014<br />
+    <br />
+    <span class="sia"><a href="http://www.spinal.co.uk/" target="_blank" class="trans">Supported by the Spinal Injuries Association </a></span>
+    <br />
+
+    <span class="sfDev"><a href="http://www.sportfocus.co.uk/" target="_blank" class="trans">designed &amp; developed by SportFocus</a></span>
+
+    </div>
+
+
+    <div class="container">
+    <h4>About</h4>
+
+                <ul>
+                    <li class="first" id="navHome"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/">About</a></li>
+
+                    <li id="navExecutiveCommittee"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/executive-committee-of-great-britain-wheelchair-basketball-association/">Executive Committee</a></li>
+
+                    <li id="navStaffProfiles"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/staff-profiles/">Staff Profiles</a></li>
+
+                    <li id="navOfficers"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/officers/">Officers</a></li>
+
+                    <li id="navPartnershipOpportunities"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/partnership-opportunities/">Partnership Opportunities</a></li>
+
+                    <li id="navPartners"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/partners/">Partners</a></li>
+
+                    <li id="navGovernance"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/governance/">Governance</a></li>
+
+                    <li id="navVacancies"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/vacancies/">Vacancies</a></li>
+
+                    <li id="navSafeguarding"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/safeguarding/">Safeguarding</a></li>
+
+                    <li id="navEqualityPolicy"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/equality-policy/">Equality Policy</a></li>
+
+                    <li class="last" id="navObituaries"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/obituaries/">Obituaries</a></li>
+
+                </ul>
+    <ul>
+    <li><a href="/gbwba/index.cfm/the-league/">The League</a></li>
+    <li><a href="/gbwba/index.cfm/calendar/">Calendar</a></li>
+    <li><a href="/gbwba/index.cfm/media/">Media</a></li>
+    <li><a href="/gbwba/index.cfm/news/">News</a></li>
+    </ul>
+    </div>
+
+
+    <div class="container">
+    <h4>Wheelchair Basketball</h4>
+
+                <ul>
+                    <li class="first" id="navHome"><a href="/gbwba/index.cfm/wheelchair-basketball/">Wheelchair Basketball</a></li>
+
+                    <li id="navFindAClub"><a href="/gbwba/index.cfm/wheelchair-basketball/find-a-club/">Find a Club</a></li>
+
+                    <li id="navClubDevelopment"><a href="/gbwba/index.cfm/wheelchair-basketball/club-development/">Club Development</a></li>
+
+                    <li id="navOfficials"><a href="/gbwba/index.cfm/wheelchair-basketball/officials/">Officials</a></li>
+
+                    <li id="navCoachingProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/coaching-programme/">Coaching Programme</a></li>
+
+                    <li id="navWomensProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/womens-programme/">Women's Programme</a></li>
+
+                    <li id="navJuniorProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/juniors-programme/">Junior Programme</a></li>
+
+                    <li id="navLondonDevelopmentProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/london-development-programme/">London Development Programme</a></li>
+
+                    <li id="navYoungOfficialsProject"><a href="/gbwba/index.cfm/wheelchair-basketball/young-officials-project/">Young Officials Project</a></li>
+
+                    <li id="navSchoolsProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/schools-programme/">Schools Programme</a></li>
+
+                    <li id="navSainsburysSchoolGames"><a href="/gbwba/index.cfm/wheelchair-basketball/sainsburys-school-games/">Sainsbury's School Games</a></li>
+
+                    <li id="navInclusiveZoneBasketball"><a href="/gbwba/index.cfm/wheelchair-basketball/inclusive-zone-basketball/">Inclusive Zone Basketball</a></li>
+
+                    <li id="navBasicSkills"><a href="/gbwba/index.cfm/wheelchair-basketball/basic-skills/">Basic Skills</a></li>
+
+                    <li id="navClassification"><a href="/gbwba/index.cfm/wheelchair-basketball/classification/">Classification</a></li>
+
+                    <li id="navRules"><a href="javascript:newWin=window.open('/gbwba/index.cfm/linkservid/BE794A4E-9DCE-A6E0-3AAEB2BBF636165B/showMeta/0/','NewWin0304708647241');newWin.focus();void(0);">Rules</a></li>
+
+                    <li id="navWorldHistory"><a href="/gbwba/index.cfm/wheelchair-basketball/worldhistory/">World History</a></li>
+
+                    <li class="last" id="navOnlineLearningCentre"><a href="/gbwba/index.cfm/wheelchair-basketball/online-learning-centre/">Online Learning Centre</a></li>
+
+                </ul>
+
+    </div>
+
+    <div class="container" >
+    <h4>World Championships 2010</h4>
+
+                <ul>
+                    <li class="first" id="navHome"><a href="/gbwba/index.cfm/wwbc2010/">World Championships 2010</a></li>
+
+                    <li id="navWelcome"><a href="/gbwba/index.cfm/wwbc2010/welcome/">Welcome</a></li>
+
+                    <li id="navFixturesAndResults"><a href="/gbwba/index.cfm/wwbc2010/schedule/">Fixtures and Results</a></li>
+
+                    <li id="navPoolTables"><a href="/gbwba/index.cfm/wwbc2010/pool-tables/">Pool Tables</a></li>
+
+                    <li id="navNews"><a href="/gbwba/index.cfm/wwbc2010/news/">News</a></li>
+
+                    <li id="navLeadingStats"><a href="/gbwba/index.cfm/wwbc2010/leading-stats/">Leading Stats</a></li>
+
+                    <li id="navPictureGallery"><a href="/gbwba/index.cfm/wwbc2010/world-wheelchair-basketball-championships-2010-picture-gallery/">Picture Gallery</a></li>
+
+                    <li id="navPools"><a href="/gbwba/index.cfm/wwbc2010/pools/">Pools</a></li>
+
+                    <li id="navTeams"><a href="/gbwba/index.cfm/wwbc2010/teams/">Teams</a></li>
+
+                    <li id="navVenue"><a href="/gbwba/index.cfm/wwbc2010/venue/">Venue</a></li>
+
+                    <li id="navAboutBirmingham"><a href="/gbwba/index.cfm/wwbc2010/about-birmingham/">About Birmingham</a></li>
+
+                    <li class="last" id="navDisclaimer"><a href="/gbwba/index.cfm/wwbc2010/disclaimer/">Disclaimer</a></li>
+
+                </ul>
+    <h4>GB Teams</h4>
+
+                <ul>
+                    <li class="first" id="navHome"><a href="/gbwba/index.cfm/standard-life-gb-teams/">Standard Life GB Teams</a></li>
+
+                    <li id="navGbPlayers"><a href="/gbwba/index.cfm/standard-life-gb-teams/gb-players/">GB Players</a></li>
+
+                    <li id="navEvents"><a href="/gbwba/index.cfm/standard-life-gb-teams/events1/">Events</a></li>
+
+                    <li class="last" id="navMatchResults"><a href="/gbwba/index.cfm/standard-life-gb-teams/match-results/">Match Results</a></li>
+
+                </ul>
+
+    </div>
+    <!--footercol --></div>
+
+
+        </div>
+        </div>
+
+
+
+    </div>
+    <!--wrapper --></div>
+    </body>
+    </html>

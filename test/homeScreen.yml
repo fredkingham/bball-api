@@ -1,0 +1,736 @@
+html:
+    |
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+
+        <meta name="generator" content="Mura CMS 5.4" />
+
+        <title>The League - British Wheelchair Basketball</title>
+
+        <link rel="icon" href="/gbwba/images/favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="/gbwba/images/favicon.ico" type="image/x-icon" />
+
+        <link rel="stylesheet" href="/gbwba/css/default.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="/gbwba/includes/themes/wbatheme/css/typography.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="/gbwba/includes/themes/wbatheme/css/site.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="/gbwba/css/print.css" type="text/css" media="print" />
+
+        <!--[if lte IE 7]>
+            <link rel="stylesheet" href="/gbwba/includes/themes/wbatheme/css/ie.css" type="text/css" media="all" />
+            <script src="/gbwba/includes/themes/wbatheme/js/DD_roundies.js"></script>
+            <script>
+              DD_roundies.addRule('.submit, .buttons input, dd.textField .submit', '10px');
+              /* string argument can be any CSS selector */
+            </script>
+        <![endif]-->
+        <!--[if lte IE 6]>
+            <script src="/gbwba/js/DD_belatedPNG.js"></script>
+            <script>
+              /* EXAMPLE */
+              DD_belatedPNG.fix('dd.rating');
+              DD_belatedPNG.fix('.trans');
+               DD_belatedPNG.fix('.controls a');
+              /* string argument can be any CSS selector */
+            </script>
+        <![endif]-->
+
+        <link rel="alternate" type="application/rss+xml" title="British Wheelchair Basketball - Forthcoming Events" href="http://www.gbwba.org.uk/tasks/feed/?feedID=00CFFA49-BDBE-8835-24A9D4C0B550A49B" />
+
+        <link rel="alternate" type="application/rss+xml" title="British Wheelchair Basketball - Latest News" href="http://www.gbwba.org.uk/tasks/feed/?feedID=00B6947B-A034-CED8-D285C8B8F75DDE29" />
+
+    <script src="/gbwba/js/jquery/jquery.js" type="text/javascript"></script>
+
+
+    <script type="text/javascript">
+        var dtExample="10/11/2018";
+        var dtCh="/";
+        var dtFormat =[1,0,2];
+        var dtLocale="en-GB";
+        </script>
+    <script type="text/javascript" src="/gbwba/js/global.js"></script>
+    <script type="text/javascript">
+    var loginURL="index.cfm?display=login";
+    var siteid="gbwba";
+    var siteID="gbwba";
+    var context="";
+    var jslib="jquery";
+    var assetpath="/gbwba";
+    var themepath="/gbwba/includes/themes/wbatheme";
+    </script>
+
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-20219187-9']);
+    _gaq.push(['_setDomainName', '.www.gbwba.org.uk']);_gaq.push(['_setAllowHash', false]);_gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script> </head>
+
+    <body id="theleague" class="twoColSL  blu">
+    <div id="container" class="sysTheLeague">
+    <div id="wrapper">
+
+        <div id="header" class=" clearfix trans">
+            <h1><a href="/" class="trans">British Wheelchair Basketball</a></h1>
+            <ul class="navUtility">
+                <li><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/">About Us</a></li>
+                <li class="last"><a href="/gbwba/index.cfm/contact/">Contact</a></li>
+            </ul>
+            <form action="/gbwba/index.cfm/search-results/" method="get" class="trans" id="searchForm">
+                <fieldset>
+
+                    <input type="text" value="Search" onclick="this.value='';" onblur="if(this.value==''){this.value='Search';}" class="text" name="keywords"/>
+
+                    <input type="hidden" name="display" value="search"/>
+                    <input type="hidden" name="newSearch" value="true"/>
+                    <input type="hidden" name="noCache" value="1"/>
+                    <input name="Search" type="image" class="submit" style="width:31px;height:21px;" src="/gbwba/includes/themes/wbatheme/images/button_search.gif" />
+
+                </fieldset>
+            </form>
+
+        </div>
+
+                <ul id="navPrimary">
+                    <li class="first" id="navHome"><a href="/gbwba/">Home</a></li>
+
+                    <li id="navAbout"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/">About</a>
+                <ul>
+                    <li class="first" id="navExecutiveCommittee"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/executive-committee-of-great-britain-wheelchair-basketball-association/">Executive Committee</a></li>
+
+                    <li id="navStaffProfiles"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/staff-profiles/">Staff Profiles</a></li>
+
+                    <li id="navOfficers"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/officers/">Officers</a></li>
+
+                    <li id="navPartnershipOpportunities"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/partnership-opportunities/">Partnership Opportunities</a></li>
+
+                    <li id="navPartners"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/partners/">Partners</a></li>
+
+                    <li id="navGovernance"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/governance/">Governance</a></li>
+
+                    <li id="navVacancies"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/vacancies/">Vacancies</a></li>
+
+                    <li id="navSafeguarding"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/safeguarding/">Safeguarding</a></li>
+
+                    <li id="navEqualityPolicy"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/equality-policy/">Equality Policy</a></li>
+
+                    <li class="last" id="navObituaries"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/obituaries/">Obituaries</a></li>
+
+                </ul></li>
+
+                    <li id="navWheelchairBasketball"><a href="/gbwba/index.cfm/wheelchair-basketball/">Wheelchair Basketball</a>
+                <ul>
+                    <li class="first" id="navFindAClub"><a href="/gbwba/index.cfm/wheelchair-basketball/find-a-club/">Find a Club</a></li>
+
+                    <li id="navClubDevelopment"><a href="/gbwba/index.cfm/wheelchair-basketball/club-development/">Club Development</a></li>
+
+                    <li id="navOfficials"><a href="/gbwba/index.cfm/wheelchair-basketball/officials/">Officials</a></li>
+
+                    <li id="navCoachingProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/coaching-programme/">Coaching Programme</a></li>
+
+                    <li id="navWomensProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/womens-programme/">Women's Programme</a></li>
+
+                    <li id="navJuniorProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/juniors-programme/">Junior Programme</a></li>
+
+                    <li id="navLondonDevelopmentProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/london-development-programme/">London Development Programme</a></li>
+
+                    <li id="navYoungOfficialsProject"><a href="/gbwba/index.cfm/wheelchair-basketball/young-officials-project/">Young Officials Project</a></li>
+
+                    <li id="navSchoolsProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/schools-programme/">Schools Programme</a></li>
+
+                    <li id="navSainsburysSchoolGames"><a href="/gbwba/index.cfm/wheelchair-basketball/sainsburys-school-games/">Sainsbury's School Games</a></li>
+
+                    <li id="navInclusiveZoneBasketball"><a href="/gbwba/index.cfm/wheelchair-basketball/inclusive-zone-basketball/">Inclusive Zone Basketball</a></li>
+
+                    <li id="navBasicSkills"><a href="/gbwba/index.cfm/wheelchair-basketball/basic-skills/">Basic Skills</a></li>
+
+                    <li id="navClassification"><a href="/gbwba/index.cfm/wheelchair-basketball/classification/">Classification</a></li>
+
+                    <li id="navRules"><a href="javascript:newWin=window.open('/gbwba/index.cfm/linkservid/BE794A4E-9DCE-A6E0-3AAEB2BBF636165B/showMeta/0/','NewWin0386423737356');newWin.focus();void(0);">Rules</a></li>
+
+                    <li id="navWorldHistory"><a href="/gbwba/index.cfm/wheelchair-basketball/worldhistory/">World History</a></li>
+
+                    <li class="last" id="navOnlineLearningCentre"><a href="/gbwba/index.cfm/wheelchair-basketball/online-learning-centre/">Online Learning Centre</a></li>
+
+                </ul></li>
+
+                    <li id="navNews"><a href="/gbwba/index.cfm/news/">News</a></li>
+
+                    <li id="navStandardLifeGbTeams"><a href="/gbwba/index.cfm/standard-life-gb-teams/">Standard Life GB Teams</a>
+                <ul>
+                    <li class="first" id="navGbPlayers"><a href="/gbwba/index.cfm/standard-life-gb-teams/gb-players/">GB Players</a></li>
+
+                    <li id="navEvents"><a href="/gbwba/index.cfm/standard-life-gb-teams/events1/">Events</a></li>
+
+                    <li class="last" id="navMatchResults"><a href="/gbwba/index.cfm/standard-life-gb-teams/match-results/">Match Results</a></li>
+
+                </ul></li>
+
+                    <li class="current" id="navTheLeague"><a href="/gbwba/index.cfm/the-league/" class="current">The League</a>
+                <ul>
+                    <li class="first" id="navLeagueSecretary"><a href="/gbwba/index.cfm/the-league/league-secretary/">League Secretary</a></li>
+
+                    <li id="navSubmitResults"><a href="/gbwba/index.cfm/the-league/submit-results/">Submit Results</a></li>
+
+                    <li id="navLeagueRules"><a href="javascript:newWin=window.open('/gbwba/index.cfm/linkservid/070EE000-CEFA-C9D4-FD8E0AECE64DE4A0/showMeta/0/','NewWin0113554260525');newWin.focus();void(0);">League Rules</a></li>
+
+                    <li id="navMembershipForms20132014"><a href="/gbwba/index.cfm/the-league/membership-forms-20132014/">Membership Forms 2013/2014</a></li>
+
+                    <li class="last" id="navStatistics"><a href="/gbwba/index.cfm/the-league/statistics/">Statistics</a></li>
+
+                </ul></li>
+
+                    <li id="navCalendar"><a href="/gbwba/index.cfm/calendar/">Calendar</a></li>
+
+                    <li id="navMedia"><a href="/gbwba/index.cfm/media/">Media</a>
+                <ul>
+                    <li class="first" id="navBwbTv"><a href="/gbwba/index.cfm/linkservid/4BB92071-155D-2B90-03C41AC60BF499FD/showMeta/0/">BWB TV</a></li>
+
+                    <li class="last" id="navGalleries"><a href="/gbwba/index.cfm/media/galleries/">Galleries</a></li>
+
+                </ul></li>
+
+                    <li id="navBwbTv"><a href="/gbwba/index.cfm/british-wheelchair-basketball-tv/">BWB TV</a>
+                <ul>
+                    <li class="first" id="navDeloitteParasportStarsWillRamsey"><a href="/gbwba/index.cfm/british-wheelchair-basketball-tv/deloitte-parasport-stars-will-ramsey/">Deloitte Parasport Stars: Will Ramsey</a></li>
+
+                    <li id="navDeloitteParasportStarsDerbyWheelblazers"><a href="/gbwba/index.cfm/british-wheelchair-basketball-tv/deloitte-parasport-stars-derby-wheelblazers/">Deloitte Parasport Stars: Derby Wheelblazers</a></li>
+
+                    <li id="navC4lSchoolClubs"><a href="/gbwba/index.cfm/british-wheelchair-basketball-tv/change-4-life-school-clubs-wheelchair-basketball/">C4L School Clubs</a></li>
+
+                    <li id="navLimblessYouStillHaveSport"><a href="/gbwba/index.cfm/british-wheelchair-basketball-tv/lost-lower-limbs-try-wheelchair-basketball/">Limbless? You Still Have Sport!</a></li>
+
+                    <li class="last" id="navMinimalDisability"><a href="/gbwba/index.cfm/british-wheelchair-basketball-tv/minimal-disability/">Minimal Disability</a></li>
+
+                </ul></li>
+
+                    <li id="navContact"><a href="/gbwba/index.cfm/contact/">Contact</a>
+                <ul>
+                    <li class="first" id="navContactForm"><a href="/gbwba/index.cfm/contact/contact-form/">Contact form</a></li>
+
+                </ul></li>
+
+                    <li class="last" id="navGoogle"><a href="/gbwba/index.cfm/linkservid/C80F3310-AC61-7D17-403038333A03CE9A/showMeta/0/">Google+</a></li>
+
+                </ul>
+        <div id="content" class="clearfix">
+
+        <div class="innerpad20t0 ">
+            <div id="left" class="sidebar">
+                <div id="navStandard">
+                <ul  class="navSecondary">
+                <li class="first"><a href="/gbwba/index.cfm/the-league/league-secretary/">League Secretary</a></li>
+                <li><a href="/gbwba/index.cfm/the-league/submit-results/">Submit Results</a></li>
+                <li><a href="javascript:newWin=window.open('/gbwba/index.cfm/linkservid/070EE000-CEFA-C9D4-FD8E0AECE64DE4A0/showMeta/0/','NewWin0663650233509');newWin.focus();void(0);">League Rules</a></li>
+                <li><a href="/gbwba/index.cfm/the-league/membership-forms-20132014/">Membership Forms 2013/2014</a></li>
+                <li class="last"><a href="/gbwba/index.cfm/the-league/statistics/">Statistics</a></li>
+                </ul> </div><h4>Current</h4>
+    <p><div class="leagueManager_leagueSelector">
+                    <script type="text/javascript">
+                         $(document).ready(
+                             function()
+                             {
+                                 $('#leagueSelect').change(
+                                     function()
+                                     {
+                                         $('#leagueForm').submit();
+                                     })
+                             });
+                    </script>
+
+                    <ul class="navSecondary">
+
+                                <li class='first'><a href="./?v=ll&LeagueId=102">Super League 2013/2014</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=103">Division One 2013/2014</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=104">Division Two 2013/2014</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=105">Divison Three 2013/2014</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=106">Women's League 2013/2014</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=107">The Lord's Taverners U15 Junior League 2013/14</a></li>
+
+                                <li class='last'><a href="./?v=ll&LeagueId=108">The Lord's Taverners U19 Junior League 2013/14</a></li>
+
+                    </ul>
+                 </div></p>
+    <h4>Past</h4>
+    <p><div class="leagueManager_leagueSelector">
+                    <script type="text/javascript">
+                         $(document).ready(
+                             function()
+                             {
+                                 $('#leagueSelect').change(
+                                     function()
+                                     {
+                                         $('#leagueForm').submit();
+                                     })
+                             });
+                    </script>
+
+                    <ul class="navSecondary">
+
+                                <li class='first'><a href="./?v=ll&LeagueId=85">RGK Super League 2011/12</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=82">Division One 2011/12</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=83">Division Two 2011/12</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=84">Division Three 2011/12</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=90">BOOST Women's League 2011/2012</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=89">The Lord's Taverners 8ft Hoop Junior League 2011/2012</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=88">The Lord's Taverners 10ft Hoop Junior League 2011/12</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=74">RGK Super League 2010/11</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=75">Division One 2010/2011</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=76">Division Two 2010/2011</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=77">Division Three 2010/2011</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=79">Development Division 2010/2011</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=80">FSB Women's League 2010/11</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=60">RGK Super League 2009/10</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=61">National League First Division 2009/10</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=62">National League Second Division 2009/10</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=63">National League Third Division 2009/10</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=64">National League Development Division 2009/10</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=65">BOOST Women's League 2009/10</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=78">The Lord's Taverners Junior League 2010/2011</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=66">The Lord's Taverners Junior League 2009/10</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=91">Development Division 2011/2012</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=93">RGK Super League 2012/2013</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=94">Division One 2012/2013</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=95">Division Two 2012/2013</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=96">Division Three 2012/2013</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=98">The Lord's Taverners 8ft Hoop Junior League 2012/2013</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=99">The Lord's Taverners 10ft Hoop Junior League 2012/2013</a></li>
+
+                                <li ><a href="./?v=ll&LeagueId=100">BOOST Women's League 20012/13</a></li>
+
+                                <li class='last'><a href="./?v=ll&LeagueId=101">Development Division 2012/2013</a></li>
+
+                    </ul>
+                 </div></p>
+            </div>
+            <div id="primary" class="content">
+                <ul id="crumbList">
+
+                            <li class="first">
+                            <a href="/gbwba/">Home</a></li>
+
+                            <li class="last">
+                                &nbsp;&raquo;&nbsp;<a href="/gbwba/index.cfm/the-league/">The League</a>
+                            </li>
+
+                </ul>
+                            <h2 class="pageTitle">The League</h2>
+                        <h3>RGK Super League 2010/11</h3>
+                    <ul class='leagueManager_tabNav'>
+                        <li><span>
+
+                                <a class='on' href="./?v=ll&LeagueId=74">Tables</a>
+
+                        </span></li>
+
+                        <li><span>
+
+                                <a class='off' href="./?v=lr&LeagueId=74">Results</a>
+
+                        </span></li>
+
+                        <li><span>
+
+                                <a class='off' href="./?v=lf&LeagueId=74">Fixtures</a>
+
+                        </span></li>
+                    </ul>
+
+                    <table class="leagueManager_divisionTable">
+                        <tr>
+                            <th colspan='11'>
+                                RGK Super League 2010/11
+                            </th>
+                        </tr>
+                        <tr>
+                            <th>&nbsp;</th>
+                            <th>Team</th>
+
+                                <th>Pld</th>
+
+                                <th>W</th>
+
+                                <th>D</th>
+
+                                <th>L</th>
+
+                                <th>F</th>
+
+                                <th>A</th>
+
+                                <th>PD</th>
+
+                                <th>BP</th>
+
+                                <th>Pts</th>
+
+                        </tr>
+
+
+                            <tr class="odd">
+                                <td>1</td>
+                                <td><a href="?v=t&TeamId=77134">RGK UofW Sporting Club Rhinos SL</a></td>
+
+                                    <td>12</td>
+
+                                    <td>12</td>
+
+                                    <td>0</td>
+
+                                    <td>0</td>
+
+                                    <td>887</td>
+
+                                    <td>615</td>
+
+                                    <td>272</td>
+
+                                    <td>0</td>
+
+                                    <td>24</td>
+
+                            </tr>
+
+                            <tr class="even">
+                                <td>2</td>
+                                <td><a href="?v=t&TeamId=77136">Sheffield Steelers SL</a></td>
+
+                                    <td>12</td>
+
+                                    <td>10</td>
+
+                                    <td>0</td>
+
+                                    <td>2</td>
+
+                                    <td>757</td>
+
+                                    <td>610</td>
+
+                                    <td>147</td>
+
+                                    <td>0</td>
+
+                                    <td>22</td>
+
+                            </tr>
+
+                            <tr class="odd">
+                                <td>3</td>
+                                <td><a href="?v=t&TeamId=77138">Tameside Owls SL</a></td>
+
+                                    <td>12</td>
+
+                                    <td>8</td>
+
+                                    <td>0</td>
+
+                                    <td>4</td>
+
+                                    <td>788</td>
+
+                                    <td>598</td>
+
+                                    <td>190</td>
+
+                                    <td>-3</td>
+
+                                    <td>17</td>
+
+                            </tr>
+
+                            <tr class="even">
+                                <td>4</td>
+                                <td><a href="?v=t&TeamId=80230">GLL & Aspire London Titans SL</a></td>
+
+                                    <td>12</td>
+
+                                    <td>5</td>
+
+                                    <td>0</td>
+
+                                    <td>7</td>
+
+                                    <td>660</td>
+
+                                    <td>716</td>
+
+                                    <td>-56</td>
+
+                                    <td>0</td>
+
+                                    <td>17</td>
+
+                            </tr>
+
+                            <tr class="odd">
+                                <td>5</td>
+                                <td><a href="?v=t&TeamId=77170">Essex Outlaws 1</a></td>
+
+                                    <td>12</td>
+
+                                    <td>5</td>
+
+                                    <td>0</td>
+
+                                    <td>7</td>
+
+                                    <td>649</td>
+
+                                    <td>714</td>
+
+                                    <td>-65</td>
+
+                                    <td>0</td>
+
+                                    <td>17</td>
+
+                            </tr>
+
+                            <tr class="even">
+                                <td>6</td>
+                                <td><a href="?v=t&TeamId=77256">Knights 1</a></td>
+
+                                    <td>12</td>
+
+                                    <td>2</td>
+
+                                    <td>0</td>
+
+                                    <td>10</td>
+
+                                    <td>588</td>
+
+                                    <td>822</td>
+
+                                    <td>-234</td>
+
+                                    <td>0</td>
+
+                                    <td>14</td>
+
+                            </tr>
+
+                            <tr class="odd">
+                                <td>7</td>
+                                <td><a href="?v=t&TeamId=77142">Aces 1</a></td>
+
+                                    <td>12</td>
+
+                                    <td>0</td>
+
+                                    <td>0</td>
+
+                                    <td>12</td>
+
+                                    <td>513</td>
+
+                                    <td>767</td>
+
+                                    <td>-254</td>
+
+                                    <td>0</td>
+
+                                    <td>12</td>
+
+                            </tr>
+
+                    </table>
+            </div>
+    <!--innerpad20t0 --></div>
+    <div class="clearmore40"></div>
+        </div>
+
+
+    <div id="footer" class="trans">
+    <div class="wrap clearfix">
+
+     <div class="clearmore20"></div>
+    <div class="footercol">
+
+    <div class="container">
+
+    <h3><a href="/" class="trans">British Wheelchair Basketball</a></h3>
+    <p style="margin-top:0px;margin-right:30px;font-size:11px;">British Wheelchair Basketball &copy;2014<br />
+    <br />
+    <span class="sia"><a href="http://www.spinal.co.uk/" target="_blank" class="trans">Supported by the Spinal Injuries Association </a></span>
+    <br />
+
+    <span class="sfDev"><a href="http://www.sportfocus.co.uk/" target="_blank" class="trans">designed &amp; developed by SportFocus</a></span>
+
+    </div>
+
+
+    <div class="container">
+    <h4>About</h4>
+
+                <ul>
+                    <li class="first" id="navHome"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/">About</a></li>
+
+                    <li id="navExecutiveCommittee"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/executive-committee-of-great-britain-wheelchair-basketball-association/">Executive Committee</a></li>
+
+                    <li id="navStaffProfiles"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/staff-profiles/">Staff Profiles</a></li>
+
+                    <li id="navOfficers"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/officers/">Officers</a></li>
+
+                    <li id="navPartnershipOpportunities"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/partnership-opportunities/">Partnership Opportunities</a></li>
+
+                    <li id="navPartners"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/partners/">Partners</a></li>
+
+                    <li id="navGovernance"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/governance/">Governance</a></li>
+
+                    <li id="navVacancies"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/vacancies/">Vacancies</a></li>
+
+                    <li id="navSafeguarding"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/safeguarding/">Safeguarding</a></li>
+
+                    <li id="navEqualityPolicy"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/equality-policy/">Equality Policy</a></li>
+
+                    <li class="last" id="navObituaries"><a href="/gbwba/index.cfm/about-british-wheelchair-basketball/obituaries/">Obituaries</a></li>
+
+                </ul>
+    <ul>
+    <li><a href="/gbwba/index.cfm/the-league/">The League</a></li>
+    <li><a href="/gbwba/index.cfm/calendar/">Calendar</a></li>
+    <li><a href="/gbwba/index.cfm/media/">Media</a></li>
+    <li><a href="/gbwba/index.cfm/news/">News</a></li>
+    </ul>
+    </div>
+
+
+    <div class="container">
+    <h4>Wheelchair Basketball</h4>
+
+                <ul>
+                    <li class="first" id="navHome"><a href="/gbwba/index.cfm/wheelchair-basketball/">Wheelchair Basketball</a></li>
+
+                    <li id="navFindAClub"><a href="/gbwba/index.cfm/wheelchair-basketball/find-a-club/">Find a Club</a></li>
+
+                    <li id="navClubDevelopment"><a href="/gbwba/index.cfm/wheelchair-basketball/club-development/">Club Development</a></li>
+
+                    <li id="navOfficials"><a href="/gbwba/index.cfm/wheelchair-basketball/officials/">Officials</a></li>
+
+                    <li id="navCoachingProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/coaching-programme/">Coaching Programme</a></li>
+
+                    <li id="navWomensProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/womens-programme/">Women's Programme</a></li>
+
+                    <li id="navJuniorProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/juniors-programme/">Junior Programme</a></li>
+
+                    <li id="navLondonDevelopmentProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/london-development-programme/">London Development Programme</a></li>
+
+                    <li id="navYoungOfficialsProject"><a href="/gbwba/index.cfm/wheelchair-basketball/young-officials-project/">Young Officials Project</a></li>
+
+                    <li id="navSchoolsProgramme"><a href="/gbwba/index.cfm/wheelchair-basketball/schools-programme/">Schools Programme</a></li>
+
+                    <li id="navSainsburysSchoolGames"><a href="/gbwba/index.cfm/wheelchair-basketball/sainsburys-school-games/">Sainsbury's School Games</a></li>
+
+                    <li id="navInclusiveZoneBasketball"><a href="/gbwba/index.cfm/wheelchair-basketball/inclusive-zone-basketball/">Inclusive Zone Basketball</a></li>
+
+                    <li id="navBasicSkills"><a href="/gbwba/index.cfm/wheelchair-basketball/basic-skills/">Basic Skills</a></li>
+
+                    <li id="navClassification"><a href="/gbwba/index.cfm/wheelchair-basketball/classification/">Classification</a></li>
+
+                    <li id="navRules"><a href="javascript:newWin=window.open('/gbwba/index.cfm/linkservid/BE794A4E-9DCE-A6E0-3AAEB2BBF636165B/showMeta/0/','NewWin0326498331075');newWin.focus();void(0);">Rules</a></li>
+
+                    <li id="navWorldHistory"><a href="/gbwba/index.cfm/wheelchair-basketball/worldhistory/">World History</a></li>
+
+                    <li class="last" id="navOnlineLearningCentre"><a href="/gbwba/index.cfm/wheelchair-basketball/online-learning-centre/">Online Learning Centre</a></li>
+
+                </ul>
+
+    </div>
+
+    <div class="container" >
+    <h4>World Championships 2010</h4>
+
+                <ul>
+                    <li class="first" id="navHome"><a href="/gbwba/index.cfm/wwbc2010/">World Championships 2010</a></li>
+
+                    <li id="navWelcome"><a href="/gbwba/index.cfm/wwbc2010/welcome/">Welcome</a></li>
+
+                    <li id="navFixturesAndResults"><a href="/gbwba/index.cfm/wwbc2010/schedule/">Fixtures and Results</a></li>
+
+                    <li id="navPoolTables"><a href="/gbwba/index.cfm/wwbc2010/pool-tables/">Pool Tables</a></li>
+
+                    <li id="navNews"><a href="/gbwba/index.cfm/wwbc2010/news/">News</a></li>
+
+                    <li id="navLeadingStats"><a href="/gbwba/index.cfm/wwbc2010/leading-stats/">Leading Stats</a></li>
+
+                    <li id="navPictureGallery"><a href="/gbwba/index.cfm/wwbc2010/world-wheelchair-basketball-championships-2010-picture-gallery/">Picture Gallery</a></li>
+
+                    <li id="navPools"><a href="/gbwba/index.cfm/wwbc2010/pools/">Pools</a></li>
+
+                    <li id="navTeams"><a href="/gbwba/index.cfm/wwbc2010/teams/">Teams</a></li>
+
+                    <li id="navVenue"><a href="/gbwba/index.cfm/wwbc2010/venue/">Venue</a></li>
+
+                    <li id="navAboutBirmingham"><a href="/gbwba/index.cfm/wwbc2010/about-birmingham/">About Birmingham</a></li>
+
+                    <li class="last" id="navDisclaimer"><a href="/gbwba/index.cfm/wwbc2010/disclaimer/">Disclaimer</a></li>
+
+                </ul>
+    <h4>GB Teams</h4>
+
+                <ul>
+                    <li class="first" id="navHome"><a href="/gbwba/index.cfm/standard-life-gb-teams/">Standard Life GB Teams</a></li>
+
+                    <li id="navGbPlayers"><a href="/gbwba/index.cfm/standard-life-gb-teams/gb-players/">GB Players</a></li>
+
+                    <li id="navEvents"><a href="/gbwba/index.cfm/standard-life-gb-teams/events1/">Events</a></li>
+
+                    <li class="last" id="navMatchResults"><a href="/gbwba/index.cfm/standard-life-gb-teams/match-results/">Match Results</a></li>
+
+                </ul>
+
+    </div>
+    <!--footercol --></div>
+
+
+        </div>
+        </div>
+
+
+
+    </div>
+    <!--wrapper --></div>
+    </body>
+    </html>
+

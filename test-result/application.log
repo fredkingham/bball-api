@@ -1,0 +1,195 @@
+26 Jan 2014 21:30:35,833 INFO  ~ Starting /Users/fredkingham/Documents/scripts/bball_api/bball-api
+26 Jan 2014 21:30:35,857 INFO  ~ Module gae is available (/Users/fredkingham/Documents/scripts/bball_api/bball-api/modules/gae-1.4)
+26 Jan 2014 21:30:35,858 INFO  ~ Module siena is available (/Users/fredkingham/Documents/scripts/lib/play-1.2.5.3/modules/siena-2.0.6)
+26 Jan 2014 21:30:37,282 WARN  ~ 
+26 Jan 2014 21:30:37,282 WARN  ~ Google App Engine module
+26 Jan 2014 21:30:37,282 WARN  ~ ~~~~~~~~~~~~~~~~~~~~~~~
+26 Jan 2014 21:30:37,282 WARN  ~ No Google App Engine environment found. Setting up a development environement
+26 Jan 2014 21:30:37,367 WARN  ~ 
+26 Jan 2014 21:30:37,367 INFO  ~ Detected that plugin 'play.modules.gae.GAEPlugin@48ea48be' disabled the plugin 'play.jobs.JobsPlugin@5d6ea269' the old way - should use Play.disablePlugin()
+26 Jan 2014 21:30:37,368 WARN  ~ You're running Play! in DEV mode
+26 Jan 2014 21:30:37,614 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+26 Jan 2014 21:31:02,148 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+26 Jan 2014 21:31:02,321 INFO  ~ GAE environment detected
+26 Jan 2014 21:31:02,322 INFO  ~ Siena DB Type: sql:h2:mysql
+26 Jan 2014 21:31:02,674 INFO  ~ Table Team needs to be added
+26 Jan 2014 21:31:02,674 INFO  ~ Table Game needs to be added
+26 Jan 2014 21:31:02,772 INFO  ~ Executed 3 SQL command(s) with 0 error(s)
+26 Jan 2014 21:31:02,865 INFO  ~ Application 'bball-api' is now started !
+26 Jan 2014 22:48:47,878 INFO  ~ GAE environment detected
+26 Jan 2014 22:48:47,887 INFO  ~ Siena DB Type: sql:h2:mysql
+26 Jan 2014 22:48:47,995 INFO  ~ Table ft_indexes needs to be removed
+26 Jan 2014 22:48:48,016 INFO  ~ Table ignorelist needs to be removed
+26 Jan 2014 22:48:48,016 INFO  ~ Table map needs to be removed
+26 Jan 2014 22:48:48,016 INFO  ~ Table rows needs to be removed
+26 Jan 2014 22:48:48,016 INFO  ~ Table words needs to be removed
+26 Jan 2014 22:48:48,016 INFO  ~ Index primary_key_21 needs to be removed from table game
+26 Jan 2014 22:48:48,018 INFO  ~ Index primary_key_2 needs to be removed from table team
+26 Jan 2014 22:48:48,173 WARN  ~ SQL Command DROP INDEX primary_key_21 ON game failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_21 ON[*] GAME "; SQL statement:
+DROP INDEX primary_key_21 ON game [42000-166]
+26 Jan 2014 22:48:48,173 WARN  ~ SQL Command DROP INDEX primary_key_2 ON team failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_2 ON[*] TEAM "; SQL statement:
+DROP INDEX primary_key_2 ON team [42000-166]
+26 Jan 2014 22:48:48,174 INFO  ~ Executed 7 SQL command(s) with 2 error(s)
+26 Jan 2014 22:55:39,763 INFO  ~ GAE environment detected
+26 Jan 2014 22:55:39,763 INFO  ~ Siena DB Type: sql:h2:mysql
+26 Jan 2014 22:55:39,793 INFO  ~ Table ft_indexes needs to be removed
+26 Jan 2014 22:55:39,793 INFO  ~ Table ignorelist needs to be removed
+26 Jan 2014 22:55:39,793 INFO  ~ Table map needs to be removed
+26 Jan 2014 22:55:39,793 INFO  ~ Table rows needs to be removed
+26 Jan 2014 22:55:39,794 INFO  ~ Table words needs to be removed
+26 Jan 2014 22:55:39,794 INFO  ~ Index primary_key_21 needs to be removed from table game
+26 Jan 2014 22:55:39,794 INFO  ~ Index primary_key_2 needs to be removed from table team
+26 Jan 2014 22:55:39,795 WARN  ~ SQL Command DROP INDEX primary_key_21 ON game failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_21 ON[*] GAME "; SQL statement:
+DROP INDEX primary_key_21 ON game [42000-166]
+26 Jan 2014 22:55:39,796 WARN  ~ SQL Command DROP INDEX primary_key_2 ON team failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_2 ON[*] TEAM "; SQL statement:
+DROP INDEX primary_key_2 ON team [42000-166]
+26 Jan 2014 22:55:39,796 INFO  ~ Executed 7 SQL command(s) with 2 error(s)
+26 Jan 2014 22:57:46,046 INFO  ~ GAE environment detected
+26 Jan 2014 22:57:46,047 INFO  ~ Siena DB Type: sql:h2:mysql
+26 Jan 2014 22:57:46,073 INFO  ~ Table ft_indexes needs to be removed
+26 Jan 2014 22:57:46,073 INFO  ~ Table ignorelist needs to be removed
+26 Jan 2014 22:57:46,074 INFO  ~ Table map needs to be removed
+26 Jan 2014 22:57:46,074 INFO  ~ Table rows needs to be removed
+26 Jan 2014 22:57:46,074 INFO  ~ Table words needs to be removed
+26 Jan 2014 22:57:46,074 INFO  ~ Index primary_key_21 needs to be removed from table game
+26 Jan 2014 22:57:46,074 INFO  ~ Index primary_key_2 needs to be removed from table team
+26 Jan 2014 22:57:46,075 WARN  ~ SQL Command DROP INDEX primary_key_21 ON game failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_21 ON[*] GAME "; SQL statement:
+DROP INDEX primary_key_21 ON game [42000-166]
+26 Jan 2014 22:57:46,076 WARN  ~ SQL Command DROP INDEX primary_key_2 ON team failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_2 ON[*] TEAM "; SQL statement:
+DROP INDEX primary_key_2 ON team [42000-166]
+26 Jan 2014 22:57:46,076 INFO  ~ Executed 7 SQL command(s) with 2 error(s)
+26 Jan 2014 22:58:27,621 INFO  ~ GAE environment detected
+26 Jan 2014 22:58:27,621 INFO  ~ Siena DB Type: sql:h2:mysql
+26 Jan 2014 22:58:27,655 INFO  ~ Table ft_indexes needs to be removed
+26 Jan 2014 22:58:27,655 INFO  ~ Table ignorelist needs to be removed
+26 Jan 2014 22:58:27,655 INFO  ~ Table map needs to be removed
+26 Jan 2014 22:58:27,656 INFO  ~ Table rows needs to be removed
+26 Jan 2014 22:58:27,656 INFO  ~ Table words needs to be removed
+26 Jan 2014 22:58:27,656 INFO  ~ Index primary_key_21 needs to be removed from table game
+26 Jan 2014 22:58:27,656 INFO  ~ Index primary_key_2 needs to be removed from table team
+26 Jan 2014 22:58:27,663 WARN  ~ SQL Command DROP INDEX primary_key_21 ON game failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_21 ON[*] GAME "; SQL statement:
+DROP INDEX primary_key_21 ON game [42000-166]
+26 Jan 2014 22:58:27,663 WARN  ~ SQL Command DROP INDEX primary_key_2 ON team failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_2 ON[*] TEAM "; SQL statement:
+DROP INDEX primary_key_2 ON team [42000-166]
+26 Jan 2014 22:58:27,663 INFO  ~ Executed 7 SQL command(s) with 2 error(s)
+26 Jan 2014 23:04:53,484 INFO  ~ GAE environment detected
+26 Jan 2014 23:04:53,485 INFO  ~ Siena DB Type: sql:h2:mysql
+26 Jan 2014 23:04:53,508 INFO  ~ Table ft_indexes needs to be removed
+26 Jan 2014 23:04:53,509 INFO  ~ Table ignorelist needs to be removed
+26 Jan 2014 23:04:53,509 INFO  ~ Table map needs to be removed
+26 Jan 2014 23:04:53,509 INFO  ~ Table rows needs to be removed
+26 Jan 2014 23:04:53,509 INFO  ~ Table words needs to be removed
+26 Jan 2014 23:04:53,509 INFO  ~ Index primary_key_21 needs to be removed from table game
+26 Jan 2014 23:04:53,509 INFO  ~ Index primary_key_2 needs to be removed from table team
+26 Jan 2014 23:04:53,510 WARN  ~ SQL Command DROP INDEX primary_key_21 ON game failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_21 ON[*] GAME "; SQL statement:
+DROP INDEX primary_key_21 ON game [42000-166]
+26 Jan 2014 23:04:53,511 WARN  ~ SQL Command DROP INDEX primary_key_2 ON team failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_2 ON[*] TEAM "; SQL statement:
+DROP INDEX primary_key_2 ON team [42000-166]
+26 Jan 2014 23:04:53,512 INFO  ~ Executed 7 SQL command(s) with 2 error(s)
+26 Jan 2014 23:10:39,128 INFO  ~ GAE environment detected
+26 Jan 2014 23:10:39,128 INFO  ~ Siena DB Type: sql:h2:mysql
+26 Jan 2014 23:10:39,153 INFO  ~ Table ft_indexes needs to be removed
+26 Jan 2014 23:10:39,153 INFO  ~ Table ignorelist needs to be removed
+26 Jan 2014 23:10:39,153 INFO  ~ Table map needs to be removed
+26 Jan 2014 23:10:39,153 INFO  ~ Table rows needs to be removed
+26 Jan 2014 23:10:39,153 INFO  ~ Table words needs to be removed
+26 Jan 2014 23:10:39,153 INFO  ~ Index primary_key_21 needs to be removed from table game
+26 Jan 2014 23:10:39,154 INFO  ~ Index primary_key_2 needs to be removed from table team
+26 Jan 2014 23:10:39,155 WARN  ~ SQL Command DROP INDEX primary_key_21 ON game failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_21 ON[*] GAME "; SQL statement:
+DROP INDEX primary_key_21 ON game [42000-166]
+26 Jan 2014 23:10:39,156 WARN  ~ SQL Command DROP INDEX primary_key_2 ON team failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_2 ON[*] TEAM "; SQL statement:
+DROP INDEX primary_key_2 ON team [42000-166]
+26 Jan 2014 23:10:39,164 INFO  ~ Executed 7 SQL command(s) with 2 error(s)
+27 Jan 2014 09:17:34,111 INFO  ~ GAE environment detected
+27 Jan 2014 09:17:34,141 INFO  ~ Siena DB Type: sql:h2:mysql
+27 Jan 2014 09:17:34,228 INFO  ~ Table ft_indexes needs to be removed
+27 Jan 2014 09:17:34,228 INFO  ~ Table ignorelist needs to be removed
+27 Jan 2014 09:17:34,228 INFO  ~ Table map needs to be removed
+27 Jan 2014 09:17:34,228 INFO  ~ Table rows needs to be removed
+27 Jan 2014 09:17:34,228 INFO  ~ Table words needs to be removed
+27 Jan 2014 09:17:34,229 INFO  ~ Index primary_key_21 needs to be removed from table game
+27 Jan 2014 09:17:34,229 INFO  ~ Index primary_key_2 needs to be removed from table team
+27 Jan 2014 09:17:34,231 WARN  ~ SQL Command DROP INDEX primary_key_21 ON game failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_21 ON[*] GAME "; SQL statement:
+DROP INDEX primary_key_21 ON game [42000-166]
+27 Jan 2014 09:17:34,231 WARN  ~ SQL Command DROP INDEX primary_key_2 ON team failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_2 ON[*] TEAM "; SQL statement:
+DROP INDEX primary_key_2 ON team [42000-166]
+27 Jan 2014 09:17:34,232 WARN  ~ SQL Command ALTER TABLE team
+    ADD COLUMN link VARCHAR(255) NULL AFTER division failed with: Syntax error in SQL statement "ALTER TABLE TEAM
+    ADD COLUMN LINK VARCHAR(255) NULL AFTER[*] DIVISION "; SQL statement:
+ALTER TABLE team
+    ADD COLUMN link VARCHAR(255) NULL AFTER division [42000-166]
+27 Jan 2014 09:17:34,246 INFO  ~ Executed 8 SQL command(s) with 3 error(s)
+27 Jan 2014 10:53:56,955 INFO  ~ GAE environment detected
+27 Jan 2014 10:53:56,976 INFO  ~ Siena DB Type: sql:h2:mysql
+27 Jan 2014 10:53:57,083 INFO  ~ Table ft_indexes needs to be removed
+27 Jan 2014 10:53:57,083 INFO  ~ Table ignorelist needs to be removed
+27 Jan 2014 10:53:57,083 INFO  ~ Table map needs to be removed
+27 Jan 2014 10:53:57,083 INFO  ~ Table rows needs to be removed
+27 Jan 2014 10:53:57,083 INFO  ~ Table words needs to be removed
+27 Jan 2014 10:53:57,083 INFO  ~ Index primary_key_21 needs to be removed from table game
+27 Jan 2014 10:53:57,084 INFO  ~ Index primary_key_2 needs to be removed from table team
+27 Jan 2014 10:53:57,085 WARN  ~ SQL Command DROP INDEX primary_key_21 ON game failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_21 ON[*] GAME "; SQL statement:
+DROP INDEX primary_key_21 ON game [42000-166]
+27 Jan 2014 10:53:57,086 WARN  ~ SQL Command DROP INDEX primary_key_2 ON team failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_2 ON[*] TEAM "; SQL statement:
+DROP INDEX primary_key_2 ON team [42000-166]
+27 Jan 2014 10:53:57,086 WARN  ~ SQL Command ALTER TABLE team
+    ADD COLUMN link VARCHAR(255) NULL AFTER division failed with: Syntax error in SQL statement "ALTER TABLE TEAM
+    ADD COLUMN LINK VARCHAR(255) NULL AFTER[*] DIVISION "; SQL statement:
+ALTER TABLE team
+    ADD COLUMN link VARCHAR(255) NULL AFTER division [42000-166]
+27 Jan 2014 10:53:57,086 INFO  ~ Executed 8 SQL command(s) with 3 error(s)
+27 Jan 2014 11:14:15,130 INFO  ~ GAE environment detected
+27 Jan 2014 11:14:15,142 INFO  ~ Siena DB Type: sql:h2:mysql
+27 Jan 2014 11:14:15,158 INFO  ~ Table ft_indexes needs to be removed
+27 Jan 2014 11:14:15,159 INFO  ~ Table ignorelist needs to be removed
+27 Jan 2014 11:14:15,159 INFO  ~ Table map needs to be removed
+27 Jan 2014 11:14:15,159 INFO  ~ Table rows needs to be removed
+27 Jan 2014 11:14:15,159 INFO  ~ Table words needs to be removed
+27 Jan 2014 11:14:15,159 INFO  ~ Index primary_key_21 needs to be removed from table game
+27 Jan 2014 11:14:15,159 INFO  ~ Index primary_key_2 needs to be removed from table team
+27 Jan 2014 11:14:15,160 WARN  ~ SQL Command DROP INDEX primary_key_21 ON game failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_21 ON[*] GAME "; SQL statement:
+DROP INDEX primary_key_21 ON game [42000-166]
+27 Jan 2014 11:14:15,161 WARN  ~ SQL Command DROP INDEX primary_key_2 ON team failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_2 ON[*] TEAM "; SQL statement:
+DROP INDEX primary_key_2 ON team [42000-166]
+27 Jan 2014 11:14:15,161 WARN  ~ SQL Command ALTER TABLE team
+    ADD COLUMN link VARCHAR(255) NULL AFTER division failed with: Syntax error in SQL statement "ALTER TABLE TEAM
+    ADD COLUMN LINK VARCHAR(255) NULL AFTER[*] DIVISION "; SQL statement:
+ALTER TABLE team
+    ADD COLUMN link VARCHAR(255) NULL AFTER division [42000-166]
+27 Jan 2014 11:14:15,161 INFO  ~ Executed 8 SQL command(s) with 3 error(s)
+27 Jan 2014 21:17:45,154 INFO  ~ GAE environment detected
+27 Jan 2014 21:17:45,167 INFO  ~ Siena DB Type: sql:h2:mysql
+27 Jan 2014 21:17:45,212 INFO  ~ Table ft_indexes needs to be removed
+27 Jan 2014 21:17:45,212 INFO  ~ Table ignorelist needs to be removed
+27 Jan 2014 21:17:45,213 INFO  ~ Table map needs to be removed
+27 Jan 2014 21:17:45,213 INFO  ~ Table rows needs to be removed
+27 Jan 2014 21:17:45,213 INFO  ~ Table words needs to be removed
+27 Jan 2014 21:17:45,213 INFO  ~ Index primary_key_21 needs to be removed from table game
+27 Jan 2014 21:17:45,213 INFO  ~ Index primary_key_2 needs to be removed from table team
+27 Jan 2014 21:17:45,214 WARN  ~ SQL Command DROP INDEX primary_key_21 ON game failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_21 ON[*] GAME "; SQL statement:
+DROP INDEX primary_key_21 ON game [42000-166]
+27 Jan 2014 21:17:45,215 WARN  ~ SQL Command DROP INDEX primary_key_2 ON team failed with: Syntax error in SQL statement "DROP INDEX PRIMARY_KEY_2 ON[*] TEAM "; SQL statement:
+DROP INDEX primary_key_2 ON team [42000-166]
+27 Jan 2014 21:17:45,215 WARN  ~ SQL Command ALTER TABLE team
+    ADD COLUMN link VARCHAR(255) NULL AFTER division failed with: Syntax error in SQL statement "ALTER TABLE TEAM
+    ADD COLUMN LINK VARCHAR(255) NULL AFTER[*] DIVISION "; SQL statement:
+ALTER TABLE team
+    ADD COLUMN link VARCHAR(255) NULL AFTER division [42000-166]
+27 Jan 2014 21:17:45,215 INFO  ~ Executed 8 SQL command(s) with 3 error(s)
+28 Jan 2014 12:38:11,272 ERROR ~ 
+
+@6h42k82he
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /app/models/Game.java around line 62)
+The file /app/models/Game.java could not be compiled. Error raised is : Syntax error on token(s), misplaced construct(s)
+
+play.exceptions.CompilationException: Syntax error on token(s), misplaced construct(s)
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:478)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:625)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
